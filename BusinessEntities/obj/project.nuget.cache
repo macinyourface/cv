@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCRukIPLPxvhngD4CPtTvP9X43QvTF1/p1lj2dOBfQCaDabR7GRGQt/X8Qn6DJ4JC3Za8wFc73ybIVb3wYHKqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robert\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\simpleinjector\\4.0.8\\simpleinjector.4.0.8.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.deps.json
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfo.cs
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CopyComplete
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\Robert\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.pdb
